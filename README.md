@@ -2,7 +2,7 @@
 
 Programming Fundamentals II Project By [YOUR NAME] Student ID: [YOUR ID]
 
-## What is Super Hi-lo?
+## What is Hi-lo?
 
 *Super Poker* is a poker game written in java programming language.
 [DESCRIBE YOUR PROGRAM (at least 5 lines]
