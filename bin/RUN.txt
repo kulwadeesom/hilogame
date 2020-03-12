@@ -1,0 +1,1 @@
+java -cp bin th.ac.ku.src.cpe.fund2.Project

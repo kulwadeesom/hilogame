@@ -1,0 +1,7 @@
+package th.ac.ku.src.cpe.fund2;
+
+class Project {
+   public static void main(String[] args) {
+      System.out.println("This is project source folder.");
+   }
+}
